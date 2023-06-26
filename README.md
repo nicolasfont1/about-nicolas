@@ -1,5 +1,5 @@
-<h1 align="center">Welcome 👋, I'm Nicolás Font,</h1>
-<h3 align="center">a Full Stack Developer from Argentina.</h3>
+<h1 align="center">Welcome, I'm Nicolás Font.</h1>
+<h3 align="center">A Full Stack Developer from Argentina.</h3>
 
 - 📫 You can reach me at **nicolasfont15@gmail.com**
 

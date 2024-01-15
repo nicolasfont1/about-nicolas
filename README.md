@@ -6,9 +6,9 @@ My journey to the software development started a few years ago, exactly in 2019,
 
 In early 2023, I made the Henry bootcamp, which counts with +800 hours of course between practical and theoretical lessons. The schedule includes technologies like JavaScript, React, Redux, Node.js, Express, PostgreSQL, and Sequelize, among others. Due to my performance, I was selected to do an internship as my final work in the bootcamp, in which the team and I had to develop a Tinder-like app for a Mexican startup, with the objective of connecting enterprises with postulants for work positions. After that, I was hired as a Frontend Developer by an IT Consultant from my country, where the team and I had to support the system of a provisional chamber from Buenos Aires, while we were developing their new work environment. The actual system of the client was mounted on .ASP, JavaScript, and SQL Server, while the new technology that we are working on uses Vue.js, Parse Server, and MongoDB.
 
-- 📫 You can reach me at **nicolasfont15@gmail.com**
+📫 You can reach me at **nicolasfont15@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolasfont1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasfont1" height="30" width="40" /></a>
 </p>
